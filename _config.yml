@@ -1,0 +1,22 @@
+# Site settings
+title: Qmatrix
+email: info@Qmatrix.ai
+url: https://qmatrix.github.io
+description: "Description for Qmatrix"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Qmatrix
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: https://github.com/Qmatrix-ai
+
+# Build settings
+markdown: kramdown
+permalink: pretty
